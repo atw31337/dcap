@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Title: dcap.py
+# Title: dcap
 # Description: Removes the head from a file
 # Author: Andrew T. Withers (atw31337@gmail.com)
 
