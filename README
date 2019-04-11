@@ -3,7 +3,7 @@
 # Author: Andrew T. Withers (atw31337@gmail.com)
 #############################################################################################################
 
-Usage: dcap -n <NUM> [OPTION]... [FILE] 
+Usage: dcap -n <NUM> [OPTION]... <INPUT FILE> 
 
  -o <FILE>	 Output file
  -n <NUM>	 Output all lines except the first n number of lines
